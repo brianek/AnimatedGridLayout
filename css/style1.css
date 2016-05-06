@@ -21,7 +21,7 @@
 }
 
 body {
-  background: #fff;
+  background: #2b3e50;
   color: #7b7b7b;
   font-weight: 400;
   font-size: 16px;
@@ -40,7 +40,7 @@ body {
 
 a {
   outline: none;
-  color: #81c483;
+  color: #fff;
   text-decoration: none;
 }
 
