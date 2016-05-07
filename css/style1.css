@@ -260,7 +260,7 @@ button:focus {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #81c483;
+  background: #2b3e50;
   content: '';
 }
 
@@ -511,7 +511,7 @@ button:focus {
 
 .article-nav button {
   border: none;
-  color: #81c483;
+  color: #2b3e50;
   background: none;
 }
 
